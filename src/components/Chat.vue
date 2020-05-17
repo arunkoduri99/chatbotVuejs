@@ -20,8 +20,8 @@
     </div>
 </template>
 <script>
-import NewMessage from '@/components/NewMessage'
-import db from '@/firebase/init'
+import NewMessage from '../components/NewMessage'
+import db from '../firebase/init'
 import moment from 'moment'
 
 export default {
